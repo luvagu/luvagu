@@ -1,4 +1,4 @@
-![forgithub](https://avatars2.githubusercontent.com/u/4513465?s=400&u=cac9e40d3c7ea10ade60518b8d5ac420211ceb94&v=4)
+![forgithub](https://avatars.githubusercontent.com/u/4513465?s=460&u=00b8b9a16d7800719907991bb9d0ad17bfef4128&v=4)
 
 - 💻 Full Stack JavaScript Engineer
 - ⭐  HTML / CSS / JavaScript / Node.js / React 
