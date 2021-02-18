@@ -1,5 +1,6 @@
 ### Hi there, Luis here 👋
 
+- 🏷️ Nickname: LuVaGu
 - 💻 Full Stack JavaScript Developer
 - ⭐  HTML / CSS / JavaScript / Node.js / React.js / Next.js / FaunaDB / TypeScript
 - 👉  Current Focus: React.js / Next.js / Firebase / FaunaDB
