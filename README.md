@@ -1,11 +1,10 @@
-[![Luvagu's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvagu&show_icons=true&theme=radical)](https://github.com/luvagu/)
+[![Luvagu's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvagu&show_icons=true&theme=algolia)](https://github.com/luvagu/)
 
 - 💻 Full Stack JavaScript Engineer
 - ⭐  HTML / CSS / JavaScript / Node.js / React / Next.js / FaunaDB
 - 👉  Current Focus: React/React Hooks/Firebase/Node.js
 - 📚  Currently Mastering: React/Node.js
 
-<br>
 <br>
 <hr>
 
