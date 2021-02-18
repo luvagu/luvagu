@@ -5,7 +5,6 @@
 - 👉  Current Focus: React/React Hooks/Firebase/Node.js
 - 📚  Currently Mastering: React/Node.js
 
-<br>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvagu&layout=compact)](https://github.com/luvagu/)
