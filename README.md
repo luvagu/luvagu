@@ -2,7 +2,7 @@
 
 - 🏷️ Nickname: LuVaGu
 - 💻 Full Stack JavaScript Developer
-- ⭐  HTML / CSS / JavaScript / Node.js / React.js / Next.js / FaunaDB / TypeScript
+- ⭐  HTML / CSS / JavaScript / Node.js / React.js / Next.js / Firebase / FaunaDB / TypeScript
 - 👉  Current Focus: React.js / Next.js / Firebase / FaunaDB
 - 📚  Currently Mastering: Node.js / React.js / Next.js / FaunaDB
 
